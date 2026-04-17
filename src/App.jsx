@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, ZoomControl, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import '@geoman-io/leaflet-geoman-free';
 
-const INITIAL_CENTER = [35.681236, 139.767125];
+const INITIAL_CENTER = [35.681236, 139.767126];
 const INITIAL_ZOOM = 12;
 
 function ScaleControl() {
